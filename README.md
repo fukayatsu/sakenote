@@ -1,6 +1,7 @@
 # Sakenote
+Sakenote API client
 
-TODO: Write a gem description
+- [日本酒アプリSakenote](http://sakenote.com/)
 
 ## Installation
 
