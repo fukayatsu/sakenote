@@ -1,5 +1,3 @@
 require "sakenote/version"
+require 'sakenote/client'
 
-module Sakenote
-  # Your code goes here...
-end
